@@ -7,9 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Entities\" />
-    <Folder Include="Response\" />
-    <Folder Include="Request\" />
+    <Compile Remove="Entities\**" />
+    <Compile Remove="Request\**" />
+    <Compile Remove="Response\**" />
+    <EmbeddedResource Remove="Entities\**" />
+    <EmbeddedResource Remove="Request\**" />
+    <EmbeddedResource Remove="Response\**" />
+    <None Remove="Entities\**" />
+    <None Remove="Request\**" />
+    <None Remove="Response\**" />
   </ItemGroup>
 
 </Project>

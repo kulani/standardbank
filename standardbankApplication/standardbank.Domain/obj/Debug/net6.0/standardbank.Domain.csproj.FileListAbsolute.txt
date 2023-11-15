@@ -1,0 +1,11 @@
+C:\Development\Development\Api\standardbankApplication\standardbank.Domain\bin\Debug\net6.0\standardbank.Domain.deps.json
+C:\Development\Development\Api\standardbankApplication\standardbank.Domain\bin\Debug\net6.0\standardbank.Domain.dll
+C:\Development\Development\Api\standardbankApplication\standardbank.Domain\bin\Debug\net6.0\standardbank.Domain.pdb
+C:\Development\Development\Api\standardbankApplication\standardbank.Domain\obj\Debug\net6.0\standardbank.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Development\Api\standardbankApplication\standardbank.Domain\obj\Debug\net6.0\standardbank.Domain.AssemblyInfoInputs.cache
+C:\Development\Development\Api\standardbankApplication\standardbank.Domain\obj\Debug\net6.0\standardbank.Domain.AssemblyInfo.cs
+C:\Development\Development\Api\standardbankApplication\standardbank.Domain\obj\Debug\net6.0\standardbank.Domain.csproj.CoreCompileInputs.cache
+C:\Development\Development\Api\standardbankApplication\standardbank.Domain\obj\Debug\net6.0\standardbank.Domain.dll
+C:\Development\Development\Api\standardbankApplication\standardbank.Domain\obj\Debug\net6.0\refint\standardbank.Domain.dll
+C:\Development\Development\Api\standardbankApplication\standardbank.Domain\obj\Debug\net6.0\standardbank.Domain.pdb
+C:\Development\Development\Api\standardbankApplication\standardbank.Domain\obj\Debug\net6.0\ref\standardbank.Domain.dll

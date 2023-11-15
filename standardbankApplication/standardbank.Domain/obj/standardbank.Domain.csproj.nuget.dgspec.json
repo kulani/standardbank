@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Development\\Application\\standardbank\\standardbankApplication\\standardbank.Domain\\standardbank.Domain.csproj": {}
+    "C:\\Development\\Development\\Api\\standardbankApplication\\standardbank.Domain\\standardbank.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Development\\Application\\standardbank\\standardbankApplication\\standardbank.Domain\\standardbank.Domain.csproj": {
+    "C:\\Development\\Development\\Api\\standardbankApplication\\standardbank.Domain\\standardbank.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Development\\Application\\standardbank\\standardbankApplication\\standardbank.Domain\\standardbank.Domain.csproj",
+        "projectUniqueName": "C:\\Development\\Development\\Api\\standardbankApplication\\standardbank.Domain\\standardbank.Domain.csproj",
         "projectName": "standardbank.Domain",
-        "projectPath": "C:\\Development\\Application\\standardbank\\standardbankApplication\\standardbank.Domain\\standardbank.Domain.csproj",
+        "projectPath": "C:\\Development\\Development\\Api\\standardbankApplication\\standardbank.Domain\\standardbank.Domain.csproj",
         "packagesPath": "C:\\Users\\ngamb\\.nuget\\packages\\",
-        "outputPath": "C:\\Development\\Application\\standardbank\\standardbankApplication\\standardbank.Domain\\obj\\",
+        "outputPath": "C:\\Development\\Development\\Api\\standardbankApplication\\standardbank.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

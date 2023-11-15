@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = standardbank.Domain
-build_property.ProjectDir = C:\Development\Application\standardbank\standardbankApplication\standardbank.Domain\
+build_property.ProjectDir = C:\Development\Development\Api\standardbankApplication\standardbank.Domain\
